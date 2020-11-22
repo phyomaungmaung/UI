@@ -15,7 +15,8 @@ body{
     position: absolute;
     top: 0;
     left: 0;
-    background: #000;
+    /* background: #000; */
+    background: #01daf76c;
     opacity: 0.2;
     height: 100%;
     width: 100%;
@@ -23,7 +24,7 @@ body{
 
 .search-box{
     top: 50%;
-    left:50%;
+    left: 50%;
     position: absolute;
     width: 600px;
     transform: translate(-50%,-50%);
